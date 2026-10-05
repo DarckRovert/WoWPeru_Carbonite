@@ -13561,15 +13561,19 @@ end
 end
 function Nx.Map:GWZI(con1,zon)
 local nt=self.MaN[con1] or self.MaN[5]
-local nam=nt[zon] or "?"
+local nam=nt and nt[zon] or "?"
 local inf=self.MaI2[con1]
 if not inf then
 return nam,0,0,1002,668
 end
-local id=self.CZ2I[con1][zon]
-local win1=self.MWI[id]
+local cz=self.CZ2I[con1]
+if not cz then
+return nam
+end
+local id=cz[zon]
+local win1=id and self.MWI[id]
 if not win1 then
-return
+return nam
 end
 local x=inf.X+win1[2]
 local y=inf.Y+win1[3]
@@ -21245,12 +21249,13 @@ if num>0 then
 QuestPOIUpdateIcons()
 local Map=Nx.Map
 local maI=Map:GCMI()
-local zon=Nx.MITN1[maI]
+local zon=Nx.MITN1[maI] or 0
 for n=1,num do
 local id,qi=QuestPOIGetQuestIDByVisibleIndex(n)
 if not self.ITQ[id] or self.ITQ[-id] then
 local _,x,y,obj1=QuestPOIGetIconInfo(id)
 local tit=GetQuestLogTitle(qi)
+if tit and x and y then
 local que=self.ITQ[-id]
 if not que then
 que={}
@@ -21266,6 +21271,7 @@ que[2]=format("%c%s%c %c%c%c%c",#s+35,s,zon+35,floor(x/221)+35,x % 221+35,floor(
 local lbC=GetNumQuestLeaderBoards(qi)
 for i=1,lbC do
 que[3+i]=que[2]
+end
 end
 end
 end
