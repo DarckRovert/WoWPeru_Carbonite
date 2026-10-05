@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: |cFFD4AF37WoW Perú|r - Carbonite Items
+## Title: |cFFD4AF37WoW PerÃº|r - Carbonite Items
 ## Version: 1.00-WP
-## Author: Carbon Based Creations, LLC (Hardened by WoW Perú Staff)
-## Notes: Base de datos de items para Carbonite en WoW Perú (WotLK 3.3.5a). Carga bajo demanda.
+## Author: Carbon Based Creations, LLC (Hardened by WoW PerÃº Staff)
+## Notes: Base de datos de items para Carbonite en WoW PerÃº (WotLK 3.3.5a). Carga bajo demanda.
 ## DefaultState: Enabled
 ## LoadOnDemand: 1
 ## Dependencies: Carbonite
