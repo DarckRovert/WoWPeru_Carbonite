@@ -13,6 +13,7 @@
 [![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://wow-peru.lat/)
 [![Version](https://img.shields.io/badge/version-3.34--WP-brightgreen.svg)](https://github.com/DarckRovert/WoWPeru_Carbonite/releases)
 [![Build Status](https://img.shields.io/badge/Status-Hardened%20Production-success.svg)](https://github.com/DarckRovert/WoWPeru_Carbonite)
+[![License: EULA / Proprietary](https://img.shields.io/badge/License-EULA%20%2F%20Proprietary-lightgrey.svg)](LICENSE)
 
 ---
 
@@ -125,7 +126,17 @@ WoWPeru_Carbonite/
 
 ---
 
-## 📄 Licencia
+## 📄 Licencia y Estatus Legal
 
-Carbonite es software originalmente desarrollado por Carbon Based Creations, LLC.  
-Las modificaciones, parches de estabilidad y refactorizaciones de esta versión pertenecen al equipo de desarrollo de **WoW Perú** bajo licencia comunitaria para preservación de software 3.3.5a.
+Carbonite es software de cartografía originalmente desarrollado por **Carbon Based Creations, LLC** bajo su Acuerdo de Licencia de Usuario Final (EULA) privativo original, el cual prohíbe la descompilación con fines comerciales y redistribución no autorizada. Consulta el texto completo en [LICENSE](LICENSE).
+
+Las optimizaciones de rendimiento para WotLK 3.3.5a, parches de estabilidad contra excepciones `nil`, y la reconstrucción del tema oscuro *Charcoal Dark Mode* son desarrollados y mantenidos por el equipo de **WoW Perú** con fines exclusivos de preservación y funcionamiento en el servidor comunitario. Consulta el desglose técnico y atribución en [NOTICE.md](NOTICE.md).
+
+---
+
+## 📚 Documentación del Ecosistema
+
+* [Ficha Técnica Oficial del Ecosistema](ECOSYSTEM_REGISTRY.md)
+* [Historial de Cambios](CHANGELOG.md)
+* [Acuerdo de Licencia Original (EULA)](LICENSE)
+* [Aviso Legal y Atribución Upstream](NOTICE.md)
