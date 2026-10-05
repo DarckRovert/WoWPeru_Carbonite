@@ -1,0 +1,14 @@
+# Backups and temporary files
+*.original
+*.bak
+*.tmp
+*~
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
