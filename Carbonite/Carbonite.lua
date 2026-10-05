@@ -4085,7 +4085,7 @@ g:Clear()
 local sf=CreateFrame("Slider",nil,f,"NxSliderFrame")
 g.SlF=sf
 sf.NxG=g
-local bd={["bgFile"]="Interface\Buttons\UI-SliderBar-Background",["edgeFile"]="Interface\Buttons\UI-SliderBar-Border",["tile"]=true,["tileSize"]=8,["edgeSize"]=8,["insets"]={["left"]=3,["right"]=3,["top"]=6,["bottom"]=6}}
+local bd={["bgFile"]="Interface\\Buttons\\UI-SliderBar-Background",["edgeFile"]="Interface\\Buttons\\UI-SliderBar-Border",["tile"]=true,["tileSize"]=8,["edgeSize"]=8,["insets"]={["left"]=3,["right"]=3,["top"]=6,["bottom"]=6}}
 sf:SetBackdrop(bd)
 sf:SetOrientation("HORIZONTAL")
 sf:SetFrameStrata("MEDIUM")
