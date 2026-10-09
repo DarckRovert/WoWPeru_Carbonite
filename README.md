@@ -1,25 +1,25 @@
-# 🇵🇪 WoW Perú — Carbonite (v3.34 Hardened HD Edition)
+# 🇵🇪 Project Jaina — Carbonite (v3.34 Hardened HD Edition)
 
 **Versión:** 3.34-WP (WotLK Hardened Edition)  
 **Autor Original:** Carbon Based Creations, LLC  
-**Mantenimiento & Refactorización:** DarckRovert (Ingame: `Elnazzareno`) & WoW Perú Staff  
-**Servidor Destino:** [WoW Perú](https://wow-peru.lat/) — Reino Andino  
+**Mantenimiento & Refactorización:** DarckRovert (Ingame: `Elnazzareno`) & Project Jaina Staff  
+**Servidor Destino:** [Project Jaina](https://wow-peru.lat/) — Reino Andino  
 **Entorno de Ejecución:** World of Warcraft 3.3.5a (Build 12340) | Lua 5.1 puro  
-**Repositorio Oficial:** [DarckRovert/WoWPeru_Carbonite](https://github.com/DarckRovert/WoWPeru_Carbonite)  
+**Repositorio Oficial:** [DarckRovert/ProjectJaina_Carbonite](https://github.com/DarckRovert/ProjectJaina_Carbonite)  
 
 ---
 
 [![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://wow-peru.lat/)
 [![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://wow-peru.lat/)
-[![Version](https://img.shields.io/badge/version-3.34--WP-brightgreen.svg)](https://github.com/DarckRovert/WoWPeru_Carbonite/releases)
-[![Build Status](https://img.shields.io/badge/Status-Hardened%20Production-success.svg)](https://github.com/DarckRovert/WoWPeru_Carbonite)
+[![Version](https://img.shields.io/badge/version-3.34--WP-brightgreen.svg)](https://github.com/DarckRovert/ProjectJaina_Carbonite/releases)
+[![Build Status](https://img.shields.io/badge/Status-Hardened%20Production-success.svg)](https://github.com/DarckRovert/ProjectJaina_Carbonite)
 [![License: EULA / Proprietary](https://img.shields.io/badge/License-EULA%20%2F%20Proprietary-lightgrey.svg)](LICENSE)
 
 ---
 
-## 🌟 ¿Qué es WoWPeru_Carbonite?
+## 🌟 ¿Qué es ProjectJaina_Carbonite?
 
-**WoWPeru_Carbonite** es la edición hardened, optimizada y re-estilizada del legendario addon de cartografía, misiones y navegación satelital **Carbonite**, diseñada específicamente para el cliente **WoW Perú FHD / 3.3.5a**.
+**ProjectJaina_Carbonite** es la edición hardened, optimizada y re-estilizada del legendario addon de cartografía, misiones y navegación satelital **Carbonite**, diseñada específicamente para el cliente **Project Jaina FHD / 3.3.5a**.
 
 Esta bifurcación soluciona fallos históricos de estabilidad que provocaban miles de errores silenciosos en clientes 3.3.5a, repara el diseño visual integrando un tema oscuro nativo elegante (*Charcoal Dark Mode*), y optimiza el consumo de CPU en equipos de cabina de internet.
 
@@ -52,7 +52,7 @@ Esta bifurcación soluciona fallos históricos de estabilidad que provocaban mil
 
 ### 3. 🖥️ Compatibilidad con Cliente HD y Monitores Modernos
 - Corrección de escalado de fuentes y anclajes en resoluciones ultrawide y pantallas 1080p/1440p/4K.
-- Soporte optimizado para coexistencia con `WoWPeru_DragonflightUI` (`cDF`) y `WoWPeru_RaidSuite`.
+- Soporte optimizado para coexistencia con `ProjectJaina_DragonflightUI` (`cDF`) y `ProjectJaina_RaidSuite`.
 
 ### 4. ⚡ Optimización de Memoria y CPU para Cabinas
 - Reducción del ciclo de recálculo de rutas innecesarias cuando el jugador se encuentra en reposo en ciudades principales (Dalaran, Orgrimmar, Ventormenta).
@@ -62,10 +62,10 @@ Esta bifurcación soluciona fallos históricos de estabilidad que provocaban mil
 
 ## 📦 Módulos Incluidos en la Suite (4 Carpetas)
 
-La suite oficial **WoWPeru_Carbonite** se distribuye como un paquete modular unificado compuesto por 4 carpetas:
+La suite oficial **ProjectJaina_Carbonite** se distribuye como un paquete modular unificado compuesto por 4 carpetas:
 
 ```
-WoWPeru_Carbonite/
+ProjectJaina_Carbonite/
 ├── Carbonite/               # 🗺️ Núcleo: Cartografía satelital, misiones, HUD y parches visuales
 ├── CarboniteItems/          # 💎 Base de datos de items para búsqueda rápida (LoadOnDemand)
 ├── CarboniteNodes/          # 🌿 Nodos de recolección de minería y herboristería (LoadOnDemand)
@@ -93,7 +93,7 @@ WoWPeru_Carbonite/
 
 ## 💾 Instalación en el Cliente de Juego
 
-1. Descarga el repositorio o la última versión desde [Releases](https://github.com/DarckRovert/WoWPeru_Carbonite/releases).
+1. Descarga el repositorio o la última versión desde [Releases](https://github.com/DarckRovert/ProjectJaina_Carbonite/releases).
 2. Extrae el contenido en tu ordenador.
 3. Copia las **4 carpetas** (`Carbonite`, `CarboniteItems`, `CarboniteNodes`, `CarboniteTransfer`) directamente en:
    ```text
@@ -115,14 +115,14 @@ WoWPeru_Carbonite/
 
 ---
 
-## 🌐 Integración con el Ecosistema WoW Perú
+## 🌐 Integración con el Ecosistema Project Jaina
 
 | Addon Coexistente | Tipo de Integración |
 |---|---|
-| **`WoWPeru_DragonflightUI`** | Coexistencia limpia con el Minimapa moderno y barras de acción. |
-| **`WoWPeru_IntiObjGPS`** | Complemento de navegación satelital con waypoints andinos. |
-| **`WoWPeru_RaidSuite`** | Liberación de Combat Log para priorizar telemetría de raid. |
-| **`WoWPeru_Companion`** | Reconocimiento automático de presencia en el cliente. |
+| **`ProjectJaina_DragonflightUI`** | Coexistencia limpia con el Minimapa moderno y barras de acción. |
+| **`ProjectJaina_IntiObjGPS`** | Complemento de navegación satelital con waypoints andinos. |
+| **`ProjectJaina_RaidSuite`** | Liberación de Combat Log para priorizar telemetría de raid. |
+| **`ProjectJaina_Companion`** | Reconocimiento automático de presencia en el cliente. |
 
 ---
 
@@ -130,7 +130,7 @@ WoWPeru_Carbonite/
 
 Carbonite es software de cartografía originalmente desarrollado por **Carbon Based Creations, LLC** bajo su Acuerdo de Licencia de Usuario Final (EULA) privativo original, el cual prohíbe la descompilación con fines comerciales y redistribución no autorizada. Consulta el texto completo en [LICENSE](LICENSE).
 
-Las optimizaciones de rendimiento para WotLK 3.3.5a, parches de estabilidad contra excepciones `nil`, y la reconstrucción del tema oscuro *Charcoal Dark Mode* son desarrollados y mantenidos por el equipo de **WoW Perú** con fines exclusivos de preservación y funcionamiento en el servidor comunitario. Consulta el desglose técnico y atribución en [NOTICE.md](NOTICE.md).
+Las optimizaciones de rendimiento para WotLK 3.3.5a, parches de estabilidad contra excepciones `nil`, y la reconstrucción del tema oscuro *Charcoal Dark Mode* son desarrollados y mantenidos por el equipo de **Project Jaina** con fines exclusivos de preservación y funcionamiento en el servidor comunitario. Consulta el desglose técnico y atribución en [NOTICE.md](NOTICE.md).
 
 ---
 

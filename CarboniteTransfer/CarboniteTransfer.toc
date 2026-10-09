@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: |cFFD4AF37WoW Perú|r - Carbonite Transfer
+## Title: |cFFD4AF37Project Jaina|r - Carbonite Transfer
 ## Version: 1.01-WP
-## Author: Carbon Based Creations, LLC (Hardened by WoW Perú Staff)
-## Notes: Módulo de transferencia de almacén entre cuentas para Carbonite en WoW Perú.
+## Author: Carbon Based Creations, LLC (Hardened by Project Jaina Staff)
+## Notes: Módulo de transferencia de almacén entre cuentas para Carbonite en Project Jaina.
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: CarboniteTransferData

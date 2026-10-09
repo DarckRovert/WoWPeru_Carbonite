@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: |cFFD4AF37WoW Perú|r - Carbonite Nodes
+## Title: |cFFD4AF37Project Jaina|r - Carbonite Nodes
 ## Version: 1.00-WP
-## Author: Carbon Based Creations, LLC (Hardened by WoW Perú Staff)
-## Notes: Nodos de recolección de minería y herboristería para Carbonite en WoW Perú.
+## Author: Carbon Based Creations, LLC (Hardened by Project Jaina Staff)
+## Notes: Nodos de recolección de minería y herboristería para Carbonite en Project Jaina.
 ## DefaultState: Enabled
 ## LoadOnDemand: 1
 ## Dependencies: Carbonite

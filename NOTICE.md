@@ -1,6 +1,6 @@
-# Aviso Legal y Créditos de Código de Terceros — WoWPeru_Carbonite
+# Aviso Legal y Créditos de Código de Terceros — ProjectJaina_Carbonite
 
-Este repositorio forma parte del ecosistema de desarrollo de **WoW Perú - Reino Andino**.
+Este repositorio forma parte del ecosistema de desarrollo de **Project Jaina - Reino Andino**.
 Contiene empaquetado, optimizaciones visuales y correcciones de compatibilidad de la suite **Carbonite 3.34** para el cliente World of Warcraft 3.3.5a (Build 12340).
 
 ---
@@ -18,8 +18,8 @@ Contiene empaquetado, optimizaciones visuales y correcciones de compatibilidad d
 Carbonite fue publicado históricamente por Carbon Based Creations bajo un acuerdo de licencia propietaria (EULA). Con la discontinuación de la empresa y la transición de la suite a la comunidad de código libre/addons de World of Warcraft, diversas variantes continuaron siendo mantenidas de manera no oficial por desarrolladores independientes.
 
 Por estricto rigor de gobernanza:
-1. WoW Perú **no reclama titularidad** sobre el código base de Carbonite ni sobre sus marcas asociadas.
-2. Las adaptaciones realizadas por el equipo de WoW Perú consisten en **endurecimiento de código (hardening), corrección de backdrops/sliders, texturas HD y compatibilidad UTF-8**.
+1. Project Jaina **no reclama titularidad** sobre el código base de Carbonite ni sobre sus marcas asociadas.
+2. Las adaptaciones realizadas por el equipo de Project Jaina consisten en **endurecimiento de código (hardening), corrección de backdrops/sliders, texturas HD y compatibilidad UTF-8**.
 3. El uso de esta suite es estrictamente personal y no comercial para los miembros de la comunidad del Reino Andino.
 
 ---

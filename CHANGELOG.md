@@ -1,6 +1,6 @@
-# 📜 Historial de Cambios — WoWPeru_Carbonite
+# 📜 Historial de Cambios — ProjectJaina_Carbonite
 
-Registro detallado de versiones, correcciones de estabilidad y mejoras aplicadas a la edición de Carbonite para **WoW Perú**.
+Registro detallado de versiones, correcciones de estabilidad y mejoras aplicadas a la edición de Carbonite para **Project Jaina**.
 
 ---
 
@@ -21,8 +21,8 @@ Registro detallado de versiones, correcciones de estabilidad y mejoras aplicadas
   - Sustituida la dependencia exclusiva de la variable global `this` por `local this = self or this` y validación defensiva `if not this or not this.NxW then return end` para compatibilidad total con WoW 3.3.5a.
 
 ### ⚙️ Compatibilidad de Ecosistema
-- Integración en el registro arquitectónico maestro de addons de WoW Perú (`ECOSYSTEM_MASTER_AUDIT.md`).
-- Optimización de coexistencia con `WoWPeru_DragonflightUI` y `WoWPeru_Companion`.
+- Integración en el registro arquitectónico maestro de addons de Project Jaina (`ECOSYSTEM_MASTER_AUDIT.md`).
+- Optimización de coexistencia con `ProjectJaina_DragonflightUI` y `ProjectJaina_Companion`.
 
 ---
 

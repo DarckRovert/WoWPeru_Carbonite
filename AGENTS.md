@@ -1,7 +1,7 @@
-# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — WoWPeru_Carbonite
+# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — ProjectJaina_Carbonite
 
-**Addon:** `WoWPeru_Carbonite`  
-**Repositorio Oficial:** [https://github.com/DarckRovert/WoWPeru_Carbonite](https://github.com/DarckRovert/WoWPeru_Carbonite)  
+**Addon:** `ProjectJaina_Carbonite`  
+**Repositorio Oficial:** [https://github.com/DarckRovert/ProjectJaina_Carbonite](https://github.com/DarckRovert/ProjectJaina_Carbonite)  
 **Motor Gráfico y Runtime:** WoW 3.3.5a WotLK (Build 12340) / Lua 5.1 (Blizzard VM)
 
 ---

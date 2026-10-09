@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: |cFFD4AF37WoW Perú|r - Carbonite 3.34 HD
+## Title: |cFFD4AF37Project Jaina|r - Carbonite 3.34 HD
 ## Version: 3.34-WP
-## Author: Carbon Based Creations, LLC (Hardened by WoW Perú Staff)
-## Notes: Cartografía satelital, rastreador de misiones y navegación hardened para WoW Perú (WotLK 3.3.5a)
+## Author: Carbon Based Creations, LLC (Hardened by Project Jaina Staff)
+## Notes: Cartografía satelital, rastreador de misiones y navegación hardened para Project Jaina (WotLK 3.3.5a)
 ## X-Category: Map & Minimap
 ## X-Website: https://wow-peru.lat/
 ## DefaultState: Enabled
