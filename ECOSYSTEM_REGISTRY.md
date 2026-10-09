@@ -1,6 +1,6 @@
 # 🌐 Registro de Ecosistema — ProjectJaina_Carbonite
 
-Ficha técnica oficial de registro en la infraestructura multi-addon de **Project Jaina - Reino Andino**.
+Ficha técnica oficial de registro en la infraestructura multi-addon de **Project Jaina - Theramore**.
 
 ---
 

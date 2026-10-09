@@ -1,6 +1,6 @@
 # Aviso Legal y Créditos de Código de Terceros — ProjectJaina_Carbonite
 
-Este repositorio forma parte del ecosistema de desarrollo de **Project Jaina - Reino Andino**.
+Este repositorio forma parte del ecosistema de desarrollo de **Project Jaina - Theramore**.
 Contiene empaquetado, optimizaciones visuales y correcciones de compatibilidad de la suite **Carbonite 3.34** para el cliente World of Warcraft 3.3.5a (Build 12340).
 
 ---
@@ -20,7 +20,7 @@ Carbonite fue publicado históricamente por Carbon Based Creations bajo un acuer
 Por estricto rigor de gobernanza:
 1. Project Jaina **no reclama titularidad** sobre el código base de Carbonite ni sobre sus marcas asociadas.
 2. Las adaptaciones realizadas por el equipo de Project Jaina consisten en **endurecimiento de código (hardening), corrección de backdrops/sliders, texturas HD y compatibilidad UTF-8**.
-3. El uso de esta suite es estrictamente personal y no comercial para los miembros de la comunidad del Reino Andino.
+3. El uso de esta suite es estrictamente personal y no comercial para los miembros de la comunidad del Theramore.
 
 ---
 

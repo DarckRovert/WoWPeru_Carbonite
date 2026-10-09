@@ -4,7 +4,7 @@
 ## Author: Carbon Based Creations, LLC (Hardened by Project Jaina Staff)
 ## Notes: Cartografía satelital, rastreador de misiones y navegación hardened para Project Jaina (WotLK 3.3.5a)
 ## X-Category: Map & Minimap
-## X-Website: https://wow-peru.lat/
+## X-Website: https://darckrovert.github.io/ProjectJaina_Web/
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: NxData, NxCombatOpts, NxMapOpts

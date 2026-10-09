@@ -1,16 +1,16 @@
-# 🇵🇪 Project Jaina — Carbonite (v3.34 Hardened HD Edition)
+# ❄️ Project JAIna — Carbonite (v3.34 Hardened HD Edition)
 
 **Versión:** 3.34-WP (WotLK Hardened Edition)  
 **Autor Original:** Carbon Based Creations, LLC  
-**Mantenimiento & Refactorización:** DarckRovert (Ingame: `Elnazzareno`) & Project Jaina Staff  
-**Servidor Destino:** [Project Jaina](https://wow-peru.lat/) — Reino Andino  
+**Mantenimiento & Refactorización:** DarckRovert (Ingame: `Elnazzareno`) & Project JAIna Staff  
+**Servidor Destino:** [Project JAIna](https://darckrovert.github.io/ProjectJaina_Web/) — Theramore  
 **Entorno de Ejecución:** World of Warcraft 3.3.5a (Build 12340) | Lua 5.1 puro  
 **Repositorio Oficial:** [DarckRovert/ProjectJaina_Carbonite](https://github.com/DarckRovert/ProjectJaina_Carbonite)  
 
 ---
 
-[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://wow-peru.lat/)
-[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://wow-peru.lat/)
+[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://darckrovert.github.io/ProjectJaina_Web/)
+[![Servidor](https://img.shields.io/badge/Servidor-Project%20JAIna-00ccff.svg)](https://darckrovert.github.io/ProjectJaina_Web/)
 [![Version](https://img.shields.io/badge/version-3.34--WP-brightgreen.svg)](https://github.com/DarckRovert/ProjectJaina_Carbonite/releases)
 [![Build Status](https://img.shields.io/badge/Status-Hardened%20Production-success.svg)](https://github.com/DarckRovert/ProjectJaina_Carbonite)
 [![License: EULA / Proprietary](https://img.shields.io/badge/License-EULA%20%2F%20Proprietary-lightgrey.svg)](LICENSE)
